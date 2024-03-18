@@ -1,0 +1,2 @@
+# Ugariti
+Statistical School
